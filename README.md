@@ -1,7 +1,7 @@
 ## ✨✨✨✨✨✨✨✨✨✨✨
 ## Backend / Frontend Developer
-# discord: uys777
-# I’m currently learning GO LANG
+### discord: uys777
+### I’m currently learning GO LANG
 
 
 <!--
