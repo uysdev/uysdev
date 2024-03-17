@@ -1,4 +1,9 @@
-### Hi there 👋
+## ✨✨✨✨✨✨✨✨✨✨✨
+## Backend / Frontend Developer
+##  Germany, Berlin.
+## C++ / C# / TS / JS / PY.
+
+
 
 <!--
 **uysdev/uysdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
