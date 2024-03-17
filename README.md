@@ -1,7 +1,5 @@
 ## ✨✨✨✨✨✨✨✨✨✨✨
 ## Backend / Frontend Developer
-#Germany, Berlin.
-#C++ / C# / TS / JS / PY.
 
 
 
